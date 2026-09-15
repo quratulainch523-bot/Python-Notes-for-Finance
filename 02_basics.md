@@ -12,7 +12,8 @@ Day 02:
 - Length of string can be found by using Python.
 - Index of letters in the word and letters on some index can be found.
 
-[!IMG-20251209-WA0004.jpg](https://app.notion.com/p/Conditions-2c5b48ae9b538040a724e9e1c4ba0914?source=copy_link#2c5b48ae9b5380c98be2e804f799a3a4)
+<img width="1280" height="711" alt="image" src="https://github.com/user-attachments/assets/56394055-0455-4aae-af6a-e75a3baf545b" />
+
 
 **Number 02:**
 
