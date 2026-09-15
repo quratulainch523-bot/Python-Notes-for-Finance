@@ -22,7 +22,8 @@
 - Integer(’int’) values are numerical digits and not written in quotes.
 - Floating values are decimal numbers and also not written in quotes.
 
-!IMG-20251206-WA0002.jpg
+<img width="1280" height="710" alt="image" src="https://github.com/user-attachments/assets/445baee8-e31b-42bc-9a14-9acf888de286" />
+
 
 **Number 02:🕑**
 
@@ -33,7 +34,7 @@
 - “*” multiplication while “**” means “^”.
 - “! =” Means not equals to(≠).
 
-!IMG-20251206-WA0003.jpg
+<img width="1280" height="721" alt="image" src="https://github.com/user-attachments/assets/05b12a9d-10eb-4181-b292-6b00ee077593" />
 
 **Number 03:🕒**
 
@@ -41,7 +42,7 @@
 - Not False means True and not True means False.
 - True is started with “T” and False is started with “F” always.
 
-!IMG-20251206-WA0004.jpg
+<img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/95963756-cb6f-43ed-a64a-2a748cac3285" />
 
 **Number 04:🕓**
 
@@ -49,21 +50,21 @@
 - “And operator” is True only when both inputs are True.
 - “Or operator” is True even when only one input is True.
 
-!IMG-20251206-WA0005.jpg
+<img width="1280" height="698" alt="image" src="https://github.com/user-attachments/assets/370334b1-5796-4927-b0d3-9e30e240dca8" />
 
 **Number 05:🕔**
 
 - I learnt that even if we write an integer in quotes and write “int” before brackets, it's type will be integer.
 - If we write input before brackets and quotes, then we are able to write in the output screen and then process it.
 
-!IMG-20251206-WA0006.jpg
+<img width="1280" height="704" alt="image" src="https://github.com/user-attachments/assets/a6ef9e6c-b3ff-47e1-83dd-25ab130ae880" />
 
 **Number 06:🕕**
 
 - I learnt how to apply this “input” strategy along with finding types of Python.👩‍💻
 - I used both at once.
 
-!IMG-20251206-WA0007.jpg
+<img width="1280" height="699" alt="image" src="https://github.com/user-attachments/assets/420ba1f1-6cfc-4ca1-bde0-a8c4de700270" />
 
 **Number 07:🕖**
 
@@ -71,7 +72,7 @@
 - Then I started practicing questions.
 - I took sums from my inputs and printed it.
 
-!IMG-20251206-WA0008.jpg
+<img width="1280" height="702" alt="image" src="https://github.com/user-attachments/assets/c6bb0b34-3400-4ad9-9c7a-6b2db5ba6990" />
 
 **Number 08:🕗**
 
@@ -83,7 +84,7 @@
 
 - I learnt how to find average of two different numbers.
 
-!IMG-20251206-WA0009.jpg
+<img width="1280" height="689" alt="image" src="https://github.com/user-attachments/assets/9e495e31-02ef-4c27-83f8-d5733aedee11" />
 
 ***Conclusion:***
 
