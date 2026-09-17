@@ -5,8 +5,8 @@ Welcome to my Python learning repository! As a CA student, I am exploring data a
 Click on any topic below to view my detailed notes and code snippets:
 
 [Module 1: Operators and types](./01_basics.md)
-[Module 2: Conditions]
-[Module 3: Lists and Tuples]
+[Module 2: Conditions](./02_basics.md)
+[Module 3: Lists and Tuples](./03basics.md)
 [Module 4: Dictionary and Sets]
 [Module 5: Loops]
 [Module 6: Definition and Range Function]
