@@ -10,5 +10,5 @@ Click on any topic below to view my detailed notes and code snippets:
 [Module 4: Dictionary and Sets](./04_basics.md)
 [Module 5: Loops](./05_basics.md)
 [Module 6: Definition and Range Function](./06_basics.md)
-[Module 7: Characters]
+[Module 7: Characters](./07_basics.md)
 [Module 8: OOPS]
