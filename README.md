@@ -9,6 +9,6 @@ Click on any topic below to view my detailed notes and code snippets:
 [Module 3: Lists and Tuples](./03_basics.md)
 [Module 4: Dictionary and Sets](./04_basics.md)
 [Module 5: Loops](./05_basics.md)
-[Module 6: Definition and Range Function]
+[Module 6: Definition and Range Function](./06_basics.md)
 [Module 7: Characters]
 [Module 8: OOPS]
